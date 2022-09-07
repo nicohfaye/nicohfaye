@@ -1,7 +1,6 @@
 # My GitHub Repo!
-Heyy!
 
-Welcome to my repo
+Currently enrolled in Computer Science at NTNU
 
 
 
